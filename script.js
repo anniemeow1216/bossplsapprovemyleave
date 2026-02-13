@@ -16,7 +16,7 @@ const images = [
     "no1.gif",
     "no2.gif",
     "no3.jpg",
-    "no4.png",
+    "no4.gif",
     "no5.gif"
 ];
 
